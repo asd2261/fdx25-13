@@ -1,2 +1,3 @@
 刷新  https://purge.jsdelivr.net/gh/asd2261/fdx25-13@main/yz.json
 配置  https://cdn.jsdelivr.net/gh/asd2261/fdx25-13@main/yz.json
+在 JavaScript 字符串中，每个字符都可以用 \x 加上它的 ASCII 十六进制码来表示（例如 h 是 \x68）。这样做可以让网址在代码里看起来像一堆乱码，防止别人一眼看出真实的后端地址，起到基础的混淆作用。
