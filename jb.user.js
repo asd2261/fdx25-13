@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         数据标注挂机助手
 // @namespace    http://tampermonkey.net/
-// @version      6.2
+// @version      6.3
 // @description  F12自动显示状态 | 输入r刷新缓存 | 移除运行暂停指令
 // @author       人事
 // @match       *://*/*
